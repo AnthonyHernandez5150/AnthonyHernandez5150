@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b3bc71e4-f3c8-4811-924f-9209dd4f4f21)
+![Anthony James Hernandez Banner](./banner.png)
 
 
 # 👨‍💻 Anthony James Hernandez
