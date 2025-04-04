@@ -1,16 +1,42 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/b3bc71e4-f3c8-4811-924f-9209dd4f4f21)
 
-<!--
-**AnthonyHernandez5150/AnthonyHernandez5150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👨‍💻 Anthony James Hernandez
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Self-Taught Web Developer | Python 🐍 | JavaScript ⚡ | WordPress 🔧**  
+Fixing bugs, building full-stack apps, and turning chaos into clean code.
+
+---
+
+## 🚀 What I Do
+- 🛠 Fix WordPress bugs fast, secure, and clean
+- ⚙️ Automate tasks and optimize websites
+- 🌐 Build responsive, full-stack web apps
+- 🔍 Debug like a digital detective
+
+---
+
+## 🧰 Languages & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+
+---
+
+## 🔍 I'm Currently Working On:
+- 💻 Building a project to showcase on my GitHub (coming real soon!)
+- 🧠 Leveling up my JavaScript and API integration skills
+- 🧩 Turning real-world problems into real-world solutions
+
+---
+
+## 📫 Let's Connect!
+- 💼 [Fiverr Profile](https://www.fiverr.com/ahdevwork)
+- 📧 dev.anthonyproton.me@proton.me
+- 🔗 LinkedIn profile (coming soon...)
+
+---
+
+🧠 Always learning | 🎯 Goal: Land freelance + full-time remote work | 🚧 
